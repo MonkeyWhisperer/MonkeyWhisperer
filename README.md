@@ -1,6 +1,6 @@
 ### Hello World 🌍
 
-My focus on user pleasing started in 2005 when I modded Warcraft III assets into a successful free-to-play game. Meanwhile, I committed to connecting all the dots to inject an idea into a ready-to disrupt market using the latest Microsoft technologies.
+My focus on user pleasing started in 2005 after I modded Warcraft III assets into a successful free-to-play game. Meanwhile, I committed to connecting all the dots to inject an idea into a ready-to disrupt market using the latest Microsoft technologies.
 
 <!--
 **MonkeyWhisperer/MonkeyWhisperer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
